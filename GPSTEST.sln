@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPSTEST.Android", "GPSTEST.Android\GPSTEST.Android.csproj", "{D2E8DB7B-4A96-4953-9484-3DAD66045210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPSTEST", "GPSTEST\GPSTEST.csproj", "{58D41F40-9107-49EC-AB63-E5B1087B05A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E8DB7B-4A96-4953-9484-3DAD66045210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E8DB7B-4A96-4953-9484-3DAD66045210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E8DB7B-4A96-4953-9484-3DAD66045210}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D2E8DB7B-4A96-4953-9484-3DAD66045210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E8DB7B-4A96-4953-9484-3DAD66045210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E8DB7B-4A96-4953-9484-3DAD66045210}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{58D41F40-9107-49EC-AB63-E5B1087B05A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D41F40-9107-49EC-AB63-E5B1087B05A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D41F40-9107-49EC-AB63-E5B1087B05A7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{58D41F40-9107-49EC-AB63-E5B1087B05A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D41F40-9107-49EC-AB63-E5B1087B05A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D41F40-9107-49EC-AB63-E5B1087B05A7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {344E9311-2C15-4B15-AC94-C90F47E7EF90}
+	EndGlobalSection
+EndGlobal
